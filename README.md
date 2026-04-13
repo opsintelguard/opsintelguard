@@ -36,7 +36,7 @@ We help businesses automate operations, reduce manual work, and improve security
 
 ## 📂 Featured Projects
 
-🔗 [Vulnerability Scanner](#)  
+🔗 [Automated Vulnerability Scanner (Red Team)](#)  
 🔗 [PhishGuard Pro — Automated Phishing Email Triage & Threat Intelligence Pipeline](#)  
 🔗 [OSINT + Threat Intelligence Aggregator](#)  
 
