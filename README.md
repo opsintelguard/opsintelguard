@@ -1,16 +1,62 @@
-## Hi there 👋
+# 🐺 OpsIntelGuard (OIG)
 
-<!--
-**opsintelguard/opsintelguard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Automation & Cybersecurity Solutions
 
-Here are some ideas to get you started:
+We help businesses automate operations, reduce manual work, and improve security using AI-driven workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What We Do
+
+- 🤖 AI Automation (n8n workflows, integrations)
+- 🔐 Cybersecurity Automation (monitoring, alerting, vulnerability analysis)
+- 🖥️ System Administration Automation (uptime, server health, infrastructure)
+- 🧩 AI Agents & Intelligent Assistants (future)
+
+---
+
+## ⚡ Key Solutions
+
+- Automated Vulnerability Scanner (Penetration Testing/ Red Teaming)
+- Phishing Detection & Email Analysis
+- Uptime & Infrastructure Monitoring
+- AI-powered Business Process Automation
+
+---
+
+## 🛠 Tech Stack
+
+- n8n
+- APIs & Webhooks
+- OpenAI / AI Models
+- Linux / Docker
+- Cybersecurity Tools
+
+---
+
+## 📂 Featured Projects
+
+🔗 [Vulnerability Scanner](#)  
+🔗 [PhishGuard Pro — Automated Phishing Email Triage & Threat Intelligence Pipeline](#)  
+🔗 [OSINT + Threat Intelligence Aggregator](#)  
+
+---
+
+## 🌍 Portfolio
+
+👉 Coming soon 
+
+---
+
+## 📩 Contact
+
+📧 opsintelguard@gmail.com  
+🌐 portfolio.opsintelguard.com (future)
+
+---
+
+## 💼 About Us
+
+We build scalable, real-world automation systems that help businesses grow while staying secure.
+
+---
