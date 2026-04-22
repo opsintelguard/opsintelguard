@@ -37,8 +37,8 @@ We help businesses automate operations, reduce manual work, and improve security
 ## 📂 Featured Projects
 
 🔗 [[Automated Vulnerability Scanner (Red Team)](#)](https://github.com/opsintelguard/automated-vulnerability-scanner)  
-🔗 [PhishGuard Pro — Automated Phishing Email Triage & Threat Intelligence Pipeline](#)  
-🔗 [OSINT + Threat Intelligence Aggregator](#)  
+🔗 [OSINT + Threat Intelligence Aggregator](#)(https://github.com/opsintelguard/OSINT-Threat-Intelligence-Aggregator-Cyber-Security)
+🔗 [PhishGuard Pro — Automated Phishing Email Triage & Threat Intelligence Pipeline](#)(coming soon)
 
 ---
 
